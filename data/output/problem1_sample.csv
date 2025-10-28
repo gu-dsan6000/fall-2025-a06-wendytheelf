@@ -1,0 +1,11 @@
+log_entry,log_level
+"17/06/09 13:39:46 INFO broadcast.TorrentBroadcast: Reading broadcast variable 15997 took 3 ms",INFO
+"17/06/09 21:15:45 INFO executor.Executor: Finished task 18.0 in stage 1167.0 (TID 47861). 2667 bytes result sent to driver",INFO
+"17/06/08 20:03:36 INFO storage.BlockManager: Found block rdd_11831_35 locally",INFO
+"17/06/08 14:08:24 INFO executor.Executor: Running task 33.0 in stage 2068.0 (TID 82753)",INFO
+"17/06/09 13:03:12 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 12203",INFO
+"17/06/09 13:18:42 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 520839",INFO
+"17/06/07 15:30:22 INFO spark.CacheManager: Partition rdd_280_13 not found, computing it",INFO
+"17/06/09 18:43:00 INFO broadcast.TorrentBroadcast: Reading broadcast variable 6533 took 2 ms",INFO
+"17/06/08 15:44:36 INFO executor.Executor: Running task 30.0 in stage 276.0 (TID 11878)",INFO
+"17/06/08 10:40:40 INFO executor.Executor: Running task 26.0 in stage 934.0 (TID 37386)",INFO
