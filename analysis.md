@@ -91,7 +91,7 @@ Clusters 1440487435730, 1460011102909, 1474351042505 — 1 each
 ---
 
 ## 🖥️ Spark Web UI Screenshots
-![Cluster Timeline Plot](Screenshot 2025-10-28 013304.png)
+![Cluster Timeline Plot](/home/ubuntu/dsan6000/fall-2025-a06-wendytheelf/Screenshot 2025-10-28 013304.png)
 
 ---
 
